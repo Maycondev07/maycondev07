@@ -1,25 +1,20 @@
+👋 Olá, eu sou o Maycon
 
-# 👋 Hello, I'm Maycon
+💻 Tecnologias
+🐍 Python
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🗄️ SQLite
+📌 Projetos em Destaque
+🎰 Cassino em Python
+🧮 Calculadora Nutricional
+🎮 Ghastly Animation
+📈 Objetivo
 
-💻 Systems Analysis and Development Student
-🌎 São Paulo - Brazil  
+🎯 Conseguir minha primeira oportunidade como desenvolvedor
+🚀 Evoluir constantemente na área de tecnologia
 
-## 🚀 Skills
-
-- Python
-- HTML
-- CSS
-- JavaScript
-
-## 📚 Currently Learning
-
-- Python Automation
-- Backend Development
-
-## 🎯 Goals
-
-Become a professional developer and build useful applications.
-
-## 📂 Projects
-
-Check my repositories to see my work!
+📫 Contato
+💼 LinkedIn
+📧 Email (opcional)
