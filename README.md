@@ -1,20 +1,58 @@
-👋 Olá, eu sou o Maycon
+# 👋 Olá, eu sou o Maycon
 
-💻 Tecnologias
-🐍 Python
-🌐 HTML
-🎨 CSS
-⚡ JavaScript
-🗄️ SQLite
-📌 Projetos em Destaque
-🎰 Cassino em Python
-🧮 Calculadora Nutricional
-🎮 Ghastly Animation
-📈 Objetivo
+---
+
+🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+🐍 **Python** | ⚙️ **Automação** | 🧠 **Back-end**
+🌐 **HTML** | 🎨 **CSS** | ⚡ **JavaScript**
+
+🚀 Construindo projetos e evoluindo diariamente
+
+---
+
+# 💻 Tecnologias
+
+## 🧠 Linguagens
+
+* 🐍 Python
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript
+
+## 🗄️ Banco de Dados
+
+* 🗄️ SQLite
+
+---
+
+# 📌 Projetos em Destaque
+
+* 🎰 Cassino em Python
+* 🧮 Calculadora Nutricional
+* 🎮 Ghastly Animation
+
+---
+
+# 📈 Objetivo
 
 🎯 Conseguir minha primeira oportunidade como desenvolvedor
 🚀 Evoluir constantemente na área de tecnologia
 
-📫 Contato
+---
+
+# 📊 GitHub Stats (Opcional mas recomendado)
+
+```md
+![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycondev07&show_icons=true&theme=tokyonight)
+```
+
+---
+
+# 📫 Contato
+
 💼 LinkedIn
-📧 Email (opcional)
+📧 Email (Opcional)
+
+---
+
+⭐ Sempre evoluindo e construindo novos projetos
