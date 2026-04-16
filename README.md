@@ -40,7 +40,7 @@
 
 ---
 
-# 📊 GitHub Stats (Opcional mas recomendado)
+# 📊 GitHub Stats
 
 ```md
 ![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycondev07&show_icons=true&theme=tokyonight)
@@ -50,8 +50,8 @@
 
 # 📫 Contato
 
-💼 LinkedIn
-📧 Email (Opcional)
+💼 www.linkedin.com/in/maycon-silva-0b05392b6
+📧 maycon16112007@gmail.com
 
 ---
 
