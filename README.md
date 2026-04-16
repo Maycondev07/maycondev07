@@ -42,9 +42,9 @@
 
 # 📊 GitHub Stats
 
-![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycondev07&show_icons=true&theme=tokyonight&locale=pt-br)
+![Maycon GitHub stats](https://github-readme-stats.vercel.app/api?username=Maycon&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycondev07&layout=compact&theme=tokyonight&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon&layout=compact&theme=tokyonight&locale=pt-br)
 
 ---
 
