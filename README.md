@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Maycon 👋</h1>
+<h1 align="center">Olá, eu sou Maycon 👋</h1>
 
 <p align="center">
 Tecnólogo em Análise e Desenvolvimento de Sistemas 🐍 Python | 🤖 Automação com IA | 💻 Backend | 🌐 HTML • 🎨 CSS • ⚡ JavaScript
