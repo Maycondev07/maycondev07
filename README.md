@@ -60,12 +60,9 @@ Conseguir minha primeira oportunidade como desenvolvedor(a) e continuar aprofund
 
 ### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Maycondev07&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maycondev07" alt="GitHub Streak" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Maycondev07&layout=compact&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Maycondev07&layout=compact&langs_count=4&theme=dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Maycondev07&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Maycondev07&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
 
 ---
 
